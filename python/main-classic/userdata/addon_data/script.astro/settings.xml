@@ -1,0 +1,9 @@
+<settings version="2">
+    <setting id="dev_mode" default="true">false</setting>
+    <setting id="differentiate_elements_window">false</setting>
+    <setting id="color_customize">aliceblue</setting>
+    <setting id="sort_items_alphabetically" default="true">true</setting>
+    <setting id="astro_remote_url">https://bit.ly/astro_backup</setting>
+    <setting id="astro_admin_password" default="true">763949fc03972d5ac71f35fe00363c1dB</setting>
+    <setting id="astro_remote_hash" default="true">4692534481cef2deb53046b65ae225f3</setting>
+</settings>
