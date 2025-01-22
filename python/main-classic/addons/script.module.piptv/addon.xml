@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.piptv" name="pipTV" version="1.2.0" provider-name="pip">
+    <requires>
+        <import addon="script.module.six" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <description>Sports schedule and Acestream links</description>
+        <disclaimer>Personal use, don't distribute!</disclaimer>
+        <platform>all</platform>
+        <assets>
+              <icon>icon.png</icon>
+              <fanart>fanart.jpg</fanart>
+        </assets>
+        <news>
+            - Personal use, don't share!
+        </news>
+    </extension>
+</addon>

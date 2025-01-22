@@ -1,0 +1,44 @@
+[
+    {
+        "icon": "https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png",
+        "plot": "[COLOR yellow]Eurosport[/COLOR][CR][COLOR red]Eurosport 1 HD[/COLOR][CR][COLOR blue][B]EuroSport 1 1080*[/B][/COLOR][CR][COLOR gray]5e4cd48c79f991fcbee2de8b9d30c4b16de3b952[/COLOR]",
+        "title": "[COLOR yellow]Eurosport[/COLOR] [COLOR red]Eurosport 1 HD[/COLOR] [COLOR blue][B]EuroSport 1 1080*[/B][/COLOR] [COLOR gray]5e4cd48c79f991fcbee2de8b9d30c4b16de3b952[/COLOR] ",
+        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952"
+    },
+    {
+        "icon": "https://i.postimg.cc/qMF1nM6k/ligauhd.png",
+        "plot": "[COLOR yellow]M+ LaLiga[/COLOR][CR][COLOR red]M+ LaLiga TV UHD[/COLOR][CR][COLOR blue][B]M+ LaLigaTV 4K*[/B][/COLOR][CR][COLOR gray]dce1579e3a2e5bd29071fca8eae364f1eb3205cf[/COLOR]",
+        "title": "[COLOR yellow]M+ LaLiga[/COLOR] [COLOR red]M+ LaLiga TV UHD[/COLOR] [COLOR blue][B]M+ LaLigaTV 4K*[/B][/COLOR] [COLOR gray]dce1579e3a2e5bd29071fca8eae364f1eb3205cf[/COLOR] ",
+        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
+    },
+    {
+        "icon": "https://i.postimg.cc/GpCJJBL1/liga1.png",
+        "plot": "[COLOR yellow]M+ LaLiga[/COLOR][CR][COLOR red]M+ LaLiga TV HD[/COLOR][CR][COLOR blue][B]M+ LaLigaTV 1080 (web)[/B][/COLOR][CR][COLOR gray]cc9b7f5fe416069a2110da0909b0f915043c468b[/COLOR]",
+        "title": "[COLOR yellow]M+ LaLiga[/COLOR] [COLOR red]M+ LaLiga TV HD[/COLOR] [COLOR blue][B]M+ LaLigaTV 1080 (web)[/B][/COLOR] [COLOR gray]cc9b7f5fe416069a2110da0909b0f915043c468b[/COLOR] ",
+        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=cc9b7f5fe416069a2110da0909b0f915043c468b"
+    },
+    {
+        "icon": "https://i.postimg.cc/GpCJJBL1/liga1.png",
+        "plot": "[COLOR yellow]M+ LaLiga[/COLOR][CR][COLOR red]M+ LaLiga TV HD[/COLOR][CR][COLOR blue][B]M+ LaLigaTV 1080 multiaudio*[/B][/COLOR][CR][COLOR gray]d3de78aebe544611a2347f54d5796bd87f16c92d[/COLOR]",
+        "title": "[COLOR yellow]M+ LaLiga[/COLOR] [COLOR red]M+ LaLiga TV HD[/COLOR] [COLOR blue][B]M+ LaLigaTV 1080 multiaudio*[/B][/COLOR] [COLOR gray]d3de78aebe544611a2347f54d5796bd87f16c92d[/COLOR] ",
+        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=d3de78aebe544611a2347f54d5796bd87f16c92d"
+    },
+    {
+        "icon": "https://i.postimg.cc/GpCJJBL1/liga1.png",
+        "plot": "[COLOR yellow]M+ LaLiga[/COLOR][CR][COLOR red]M+ LaLiga TV HD[/COLOR][CR][COLOR blue][B]M+ LaLigaTV 1080 multiaudio[/B][/COLOR][CR][COLOR gray]6d05b31e5e8fdae312fbd57897363a7b10ddb163[/COLOR]",
+        "title": "[COLOR yellow]M+ LaLiga[/COLOR] [COLOR red]M+ LaLiga TV HD[/COLOR] [COLOR blue][B]M+ LaLigaTV 1080 multiaudio[/B][/COLOR] [COLOR gray]6d05b31e5e8fdae312fbd57897363a7b10ddb163[/COLOR] ",
+        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+    },
+    {
+        "icon": "https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",
+        "plot": "[COLOR yellow]M+ Liga de Campeones[/COLOR][CR][COLOR red]M+ Liga de Campeones 2 HD[/COLOR][CR][COLOR blue][B]M+ Liga de Campeones 2 1080i Multiaudio(temp)[/B][/COLOR][CR][COLOR gray]d744eadcec221847d1f9d037a28fb290a1b8239f[/COLOR]",
+        "title": "[COLOR yellow]M+ Liga de Campeones[/COLOR] [COLOR red]M+ Liga de Campeones 2 HD[/COLOR] [COLOR blue][B]M+ Liga de Campeones 2 1080i Multiaudio(temp)[/B][/COLOR] [COLOR gray]d744eadcec221847d1f9d037a28fb290a1b8239f[/COLOR] ",
+        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=d744eadcec221847d1f9d037a28fb290a1b8239f"
+    },
+    {
+        "icon": "https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png",
+        "plot": "[COLOR yellow]M+ Liga de Campeones[/COLOR][CR][COLOR red]M+ Liga de Campeones 2 HD[/COLOR][CR][COLOR blue][B]M+ Liga de Campeones 2 1080 Multiaudio[/B][/COLOR][CR][COLOR gray]c070cdb701fc46bb79d17568d99fc64620443d63[/COLOR]",
+        "title": "[COLOR yellow]M+ Liga de Campeones[/COLOR] [COLOR red]M+ Liga de Campeones 2 HD[/COLOR] [COLOR blue][B]M+ Liga de Campeones 2 1080 Multiaudio[/B][/COLOR] [COLOR gray]c070cdb701fc46bb79d17568d99fc64620443d63[/COLOR] ",
+        "url": "http://127.0.0.1:6878/ace/manifest.m3u8?id=c070cdb701fc46bb79d17568d99fc64620443d63"
+    }
+]
