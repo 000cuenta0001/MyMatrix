@@ -42,5 +42,9 @@
     <setting id="show_history">false</setting>
     <setting id="show_empty_play" default="true">false</setting>
     <setting id="agenda_link_all" default="true">false</setting>
-    <setting id="last_id" default="true">d3de78aebe544611a2347f54d5796bd87f16c92d</setting>
+    <setting id="log_messages">true</setting>
+    <setting id="max_items_agenda">50</setting>
+    <setting id="hours_cache_agenda">0</setting>
+    <setting id="hours_cache_links">0</setting>
+    <setting id="last_id" default="true">97ba38d47680954be40e48bd8f43e17222fefecb</setting>
 </settings>
